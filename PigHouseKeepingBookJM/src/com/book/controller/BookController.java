@@ -427,7 +427,7 @@ public class BookController {
 	}
 
 
-	/*¿¿¿¿ ¿ ¿¿¿¿¿¿*/
+	/*·¿×¾¿ô Ã±â¸é·Î*/
 	public void logout(HttpServletRequest req, HttpServletResponse res) {
 		
 		//·Î±×¾Æ¿ô ÇÁ·Î¼¼½º ÈÄ, À£ÄÄ ÆäÀÌÁö·Î!!
