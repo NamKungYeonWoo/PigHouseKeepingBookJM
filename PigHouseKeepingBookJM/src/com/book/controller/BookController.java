@@ -377,7 +377,8 @@ public class BookController {
 		}
 	}
 
-
+	
+	/*¿¿ ¿¿ ¿¿ ¿¿*/
 	public void excelConvert(HttpServletRequest req, HttpServletResponse res) {
 		String id ;
 		String stDate;
@@ -426,6 +427,7 @@ public class BookController {
 	}
 
 
+	/*¿¿¿¿ ¿ ¿¿¿¿¿¿*/
 	public void logout(HttpServletRequest req, HttpServletResponse res) {
 		
 		//·Î±×¾Æ¿ô ÇÁ·Î¼¼½º ÈÄ, À£ÄÄ ÆäÀÌÁö·Î!!
